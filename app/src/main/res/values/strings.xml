@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Event App</string>
+    <string name="version">verison 1.0.0</string>
+    <string name="events">Your Phone Events</string>
+    <string name="current">Currently enabled events</string>
+    <string name="internet">Internet</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="charging">Charging</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="screen_event">Screen event</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="settings">Settings</string>
+</resources>
